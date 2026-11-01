@@ -224,3 +224,4 @@ data/*
 !data/.gitkeep
 *.db
 *.sqlite.DS_Store
+.DS_Store
